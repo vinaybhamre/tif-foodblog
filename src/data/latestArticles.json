@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Lorem ipsum dolor sit amet",
+    "img": "/public/assets/articles/tif-grilled-tomatoes.svg",
+    "desc": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard..."
+  },
+  {
+    "id": 2,
+    "title": "Lorem ipsum dolor sit amet",
+    "img": "/public/assets/articles/tif-grilled-tomatoes.svg",
+    "desc": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard..."
+  },
+  {
+    "id": 3,
+    "title": "Lorem ipsum dolor sit amet",
+    "img": "/public/assets/articles/tif-grilled-tomatoes.svg",
+    "desc": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard..."
+  },
+  {
+    "id": 4,
+    "title": "Lorem ipsum dolor sit amet",
+    "img": "/public/assets/articles/tif-grilled-tomatoes.svg",
+    "desc": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard..."
+  },
+  {
+    "id": 5,
+    "title": "Lorem ipsum dolor sit amet",
+    "img": "/public/assets/articles/tif-grilled-tomatoes.svg",
+    "desc": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard..."
+  },
+  {
+    "id": 6,
+    "title": "Lorem ipsum dolor sit amet",
+    "img": "/public/assets/articles/tif-grilled-tomatoes.svg",
+    "desc": "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard..."
+  }
+]
