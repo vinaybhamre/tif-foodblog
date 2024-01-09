@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className=" flex flex-col md:flex-row items-center gap-8 p-12 md:gap-20 md:justify-evenly md:py-28">
       <div className=" w-64">
         <img
-          src="/public/assets/tif-foodblog-logo.svg"
+          src="/assets/tif-foodblog-logo.svg"
           alt="footer-logo"
           className=" w-40 h-32"
         />
